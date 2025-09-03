@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Vacation scheduler</string>
+    <string name="welcome_to_vacation_scheduler_app">Welcome to Vacation Scheduler App</string>
+    <string name="add_vacations">Add Vacations</string>
+    <string name="view_reports">View Reports</string>
+    <string name="generate_vacation_report">Vacation Report</string>
+    <string name="generate_excursion_report">Excursion Report</string>
+    <string name="generate_summary_report">Summary Report</string>
+    <string name="save_report">Save</string>
+    <string name="share_report">Share</string>
+    <string name="no_report_generated">Generate a report first</string>
+    <string name="report_saved">Report saved</string>
+</resources>
